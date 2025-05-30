@@ -1,17 +1,3 @@
-Hi 👋 My name is olusola kujore
-===============================
+Hi 👋 My name is olusola kujore,i am from London.
+i am a pharmacist of over a decade of  work experience in the pharmaceutical industry,as a pharmacist transitioning into data analysis and technology,i bring a unigue blend of analytical thinking and a deep commitment to problem solving.My goal is to bridge the gap between healthcare,pharmaceutical industry and technology using data analysis to empower businesses. Currently,i have just concluded training to become a data analyst from a bootcamp.From this training i have acquired the basic skills such as microoft excel,powerBI,Python,Data bases&Tableau,SQL and Cloud computing with Azure  which are needed to go into my new career as a data analysis.
 
-data analyst
-------------
-
-i am a
-
-* 🌍  I'm based in london
-* 🚀  I'm currently working on [https://github.com/Adeboye2000/olusola-project-1](http://github.com/Adeboye2000/olusola-project-1)
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
